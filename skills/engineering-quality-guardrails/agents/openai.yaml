@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Quality"
+  short_description: "SOLID, OO, YAGNI guardrails"
+  default_prompt: "Use $engineering-quality-guardrails to design or review a maintainable object-oriented implementation with SOLID, YAGNI, and semantic versioning constraints."
