@@ -1,0 +1,7 @@
+interface:
+  display_name: "Edge to Edge"
+  short_description: "Fix Compose edge-to-edge and window insets"
+  default_prompt: "Use $edge-to-edge to audit and fix edge-to-edge, insets, and IME behavior in this Compose screen."
+
+policy:
+  allow_implicit_invocation: false

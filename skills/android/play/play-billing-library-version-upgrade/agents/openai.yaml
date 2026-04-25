@@ -1,0 +1,7 @@
+interface:
+  display_name: "Play Billing Upgrade"
+  short_description: "Upgrade Google Play Billing safely"
+  default_prompt: "Use $play-billing-library-version-upgrade to inspect and upgrade this app's Play Billing integration."
+
+policy:
+  allow_implicit_invocation: false

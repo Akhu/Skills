@@ -1,0 +1,7 @@
+interface:
+  display_name: "XML Views to Compose"
+  short_description: "Migrate an XML screen to Jetpack Compose"
+  default_prompt: "Use $migrate-xml-views-to-jetpack-compose to migrate this XML view to Jetpack Compose incrementally."
+
+policy:
+  allow_implicit_invocation: false

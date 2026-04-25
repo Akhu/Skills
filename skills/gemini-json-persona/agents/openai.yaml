@@ -1,0 +1,7 @@
+interface:
+  display_name: "Gemini JSON Persona"
+  short_description: "Extract meta, context, and TELOS docs"
+  default_prompt: "Use $gemini-json-persona to extract a meta profile, LLM context, and TELOS from this Gemini compact JSON."
+
+policy:
+  allow_implicit_invocation: true

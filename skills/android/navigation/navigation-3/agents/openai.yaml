@@ -1,0 +1,7 @@
+interface:
+  display_name: "Navigation 3"
+  short_description: "Guide Navigation 3 migration and patterns"
+  default_prompt: "Use $navigation-3 to assess whether this Android app should adopt Navigation 3 and map the migration steps."
+
+policy:
+  allow_implicit_invocation: false

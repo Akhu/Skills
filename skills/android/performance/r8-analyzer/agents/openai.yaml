@@ -1,0 +1,7 @@
+interface:
+  display_name: "R8 Analyzer"
+  short_description: "Analyze R8 keep rules and shrinker config"
+  default_prompt: "Use $r8-analyzer to review this project's R8 and ProGuard rules and identify risky or redundant keeps."
+
+policy:
+  allow_implicit_invocation: false
